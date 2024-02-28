@@ -1,3 +1,4 @@
+![logo](https://github.com/satiharish07/satiharish07/blob/main/Harish_canva.png)
 <h1 align="center">Hi 👋, I'm Harish</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 👩🏻‍💻 Passionate developer experienced in FrontEnd Development, AI/ML.<br/>
